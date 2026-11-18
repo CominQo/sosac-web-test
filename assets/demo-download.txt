@@ -1,0 +1,3 @@
+Sosáč – demo download
+
+This is a test file. In the real shop this link downloads the Sosáč app after a confirmed Revolut payment.
